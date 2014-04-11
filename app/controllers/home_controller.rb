@@ -20,7 +20,20 @@ def index
     { :name => "Melanie Jeanne Reeves Wicklow",
       :birthday => "August 14" },
     { :name => "Jacob Walden Soule",
-      :birthday => "June 22" } 
+      :birthday => "June 22" }, 
+      :name => "Faire Tesla Soule-Reeves",
+      :birthday => "May 19",
+      :name => "Cantor Maxwell Soule-Reeves (Feb. 4)
+      Bethany Marie Soule (Oct. 19
+      Daniel Martin Reeves (Oct. 20)
+      Aaralyn Lucia Bowen (Aug. 11)
+      Berlin Isabella Herra (May 29)
+      Jackson Patrick Mcconnaughy (Oct. 10)
+      Isabella Rose-Fausta Prator (Feb. 28)
+      Erica Dawn Edelman (Mar. 16)
+      Judith Sue Soule (Mar. 2)
+      Robert Fedrick Soule (Jan. 21)
+      Erica Laurel Soule (Sep. 26)
   ]
 end
 end

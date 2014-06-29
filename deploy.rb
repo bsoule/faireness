@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#! /usr/bin/ruby
 require 'httparty'
 
 pads = ["faireswebsite"]
@@ -10,14 +10,15 @@ layout = <<EOF
 
 <link rel="me" href="https://github.com/FaireBear">
 <link rel="me" href="https://www.beeminder.com/faire">
-
-<link href="/css/bootstrap.min.css" rel="stylesheet">
-
-<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css">
+<link rel="stylesheet" href="/css/faireness.css" type="text/css">
+<link rel="shortcut icon" href="/favicon.ico" type="image/ico">
 
 </head>
 <body>
+<div class="container">
 %s
+</div>
 </body>
 </html>
 EOF

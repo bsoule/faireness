@@ -1,3 +1,4 @@
+#!/usr/bin/ruby
 require 'httparty'
 
 pads = ["faireswebsite"]
@@ -7,8 +8,8 @@ layout = <<EOF
 <title>Faire's Web Site</title>
 <meta name="author" content="Faire Soule-Reeves">
 
-<link rel="me" href="http://github.com/FaireBear">
-<link rel="me" href="http://beeminder.com/faire">
+<link rel="me" href="https://github.com/FaireBear">
+<link rel="me" href="https://www.beeminder.com/faire">
 
 <link href="/css/bootstrap.min.css" rel="stylesheet">
 
